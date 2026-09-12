@@ -1,0 +1,6 @@
+{
+  "name": "Water Monitoring System",
+  "description": "Daily water usage monitoring for Plant 1 and Plant 2 deepwells with shift quota tracking, over-quota alerts, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
